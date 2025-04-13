@@ -4,6 +4,8 @@
 <img src="photo2.jpg" alt="Alt Text" width="100%"/>
 <img src="photo3.jpg" alt="Alt Text" width="100%"/>
 
+<a href="https://www.kaggle.com/datasets/obinnaiheanachor/wisabi-bank-dataset">Datasets</a>
+
 I’ve been working on Wasabi Bank Transaction Analysis , and it has been a fantastic learning experience. This project has helped me turn raw financial data into actionable insights, making it easier to understand customer behaviors and transaction trends.
 📌 Transaction Trends – When and where people use ATMs the most
 📌 Who is Making Transactions (age, occupation, etc.)
